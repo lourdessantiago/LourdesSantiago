@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora Front-End en formación</h3>
 
 
-- 🔭 Actualmente estoy desarrollando el proyecto de **Lab notes**, utilizando React y firebase, para que el uruario pueda inciar sesion con google, crear, editar y eliminar notas, así como cerrar sesión.
+- 🔭 Actualmente estoy desarrollando el proyecto de **Lab notes**, utilizando React y firebase, para que el usuario pueda inciar sesion con google, crear, editar y eliminar notas, así como cerrar sesión.
 
 - 💬 Sobre mí **Soy una mujer en búsqueda de nuevos desafíos y aprendizajes. Una de mis grandes pasiones es la fotografía, creo que una imagen puede contar una gran historia. Tengo formación antropológica, que me enseñó a poder entender diferentes culturas. Con la antropología y la fotografía obtuve habilidades que me ayudan a desarrollarme como front-end developer, las cuales me permiten resolver problemas a los que me enfrento tomando en cuenta el enfoque del usuario y del desarrollador, adaptando las soluciones a las diferentes necesidades.* *
 
