@@ -1,9 +1,9 @@
-<h1 align="center">✨ Hola, soy Lourdes Santiago</h1>
+ <h1 align="center">✨ Hola, soy Lourdes Santiago</h1>
 <h3 align="center">Estudiante de desarrollo front-end</h3>
 
 <p align="left"> <img src="https ://komarev.com/ghpvc/?username=lourdessantiago&label=Profile%20views&color=0e75b6&style=flat" alt="lourdessantiago" /> </p>
 
-- 🔭 Actualmente estoy desarrollando el proyecto de **Lab notes**
+- 🔭 Actualmente estoy desarrollando el proyecto de **Notas de laboratorio**
 
 - 💬 Sobre mí **Soy una mujer en búsqueda de nuevos desafíos y aprendizajes. Una de mis grandes pasiones es la fotografía, creo que una imagen puede contar una gran historia. Tengo formación antropológica, que me enseñó a poder entender diferentes culturas. Con la antropología y la fotografía obtuve habilidades que me ayudan a desarrollarme como front-end developer, las cuales me permiten resolver problemas a los que me enfrento tomando en cuenta el enfoque del usuario y del desarrollador, adaptando las soluciones a las diferentes necesidades.* *
 
@@ -11,7 +11,8 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lourdes-santiago-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lourdes-santiago-" height="30" width="40" /></a> <a href="mailto:roxanaggr@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="roxanaggr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lourdes-santiago-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lourdes-santiago-" height="30" width="40" /></a> <a href="mailto:lourdes.santiago.palacios@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="roxanaggr" height="30" width="40" /></a>
+
 </ p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
@@ -22,8 +23,25 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lourdessantiago&show_icons=true&locale=en" alt="lourdessantiago" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lourdessantiago&" alt="lourdessantiago" /></p>
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
