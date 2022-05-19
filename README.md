@@ -1,5 +1,6 @@
-<h1 align="center">✨ Hola 👋, soy Lourdes Santiago
-  #### Estudiante de desarrollo front-end
+<h1 align="center">✨ Hola 👋, soy Lourdes Santiago</h2>
+#### Estudiante de desarrollo front-end
+
 Soy una mujer en búsqueda de nuevos desafíos y aprendizajes. Una de mis grandes pasiones es la fotografía, creo que una imagen puede contar una gran historia. Tengo formación antropológica, que me enseñó a poder entender diferentes culturas. Con la antropología y la fotografía obtuve habilidades que me ayudan a desarrollarme como front-end developer, las cuales me permiten resolver problemas a los que me enfrento tomando en cuenta el enfoque del usuario y del desarrollador, adaptando las soluciones a las diferentes necesidades.
 
 <h3 align="left">Connect with me:</h3>
