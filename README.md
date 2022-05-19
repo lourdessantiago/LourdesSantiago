@@ -11,7 +11,8 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lourdes-santiago-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github- profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lourdes-santiago-" height="30" width="40" /></a> <a href="mailto:lourdes.santiago.palacios@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="roxanaggr" height="30" width="40" /></a>
+</a> <a href="https://linkedin.com/in/lourdes-santiago-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lourdessantiago" height="30" width="40" /></a>
+  <a href="mailto:lourdes.santiago.palacios@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="lourdessantiago" height="30" width="40" /></a><a href="mailto:lourdes.santiago.palacios@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="lourdessantiago" height="30" width="40" /></a>
 
 </ p>
 
