@@ -1,5 +1,5 @@
  <h1 align="center">✨ Hola, soy Lourdes Santiago</h1>
-<h3 align="center">Estudiante de desarrollo front-end</h3>
+<h3 align="center">Desarrolladora Front-End en formación</h3>
 
 
 - 🔭 Actualmente estoy desarrollando el proyecto de **Lab notes**, utilizando React y firebase, para que el uruario pueda inciar sesion con google, crear, editar y eliminar notas, así como cerrar sesión.
